@@ -1,4 +1,4 @@
-<!--1.What git concepts were you struggling with prior to the GPS session?
+1.What git concepts were you struggling with prior to the GPS session?
 2.What concepts were clarified during the GPS?
 3.What questions did you ask your pair and the guide?
 4.What still confuses you about git?
